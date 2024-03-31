@@ -20,7 +20,7 @@ this.setInterval(function(){
     bod.style.display="block";
     loa.style.display="none";
 }
-// ,3400
+,4400
 
 )
 })
